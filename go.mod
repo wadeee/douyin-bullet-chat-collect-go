@@ -1,4 +1,4 @@
-module github.com/XiaoMiku01/douyin-live-go
+module github.com/wadeee/namegen-douyin-bullet-chat-collect
 
 go 1.20
 

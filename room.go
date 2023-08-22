@@ -16,7 +16,7 @@ import (
 	"github.com/gorilla/websocket"
 	"github.com/tidwall/gjson"
 
-	dyproto "github.com/XiaoMiku01/douyin-live-go/protobuf"
+	dyproto "github.com/wadeee/namegen-douyin-bullet-chat-collect/protobuf"
 )
 
 type Room struct {
